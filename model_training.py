@@ -1,1 +1,1 @@
-# Entrainement d'un modele RF
+# Entrainement d'un modele KNN
