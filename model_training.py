@@ -1,1 +1,1 @@
-# Entrainement d'un modele SVM
+# Entrainement d'un modele RF
